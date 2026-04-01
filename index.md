@@ -12,7 +12,7 @@
 + Memeber for WIC Projects 
 ---
 ## 💻 Projects:
-1. [MatchStick](https://github.com/anusha167/Team8-Matchstick)
+1. MatchStick - [here](https://github.com/anusha167/Team8-Matchstick)
 2. Column-Drift-Ratio-Prediction - [here](https://github.com/kkaushik03/Column-Drift-Ratio-Prediction)
 3. DiamondHacks 2026 Coming Soon!🎉🎉
 ---   
