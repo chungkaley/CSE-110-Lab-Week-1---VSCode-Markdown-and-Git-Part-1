@@ -21,7 +21,11 @@
 - [ ] Learn more Kotlin, Rust, & Rust
 - [x] Have a beautiful soul 
 ---
-## 💖 [Here is a picture of my sister and me! Guess who is who >_<](megan&me.png)
+## 💖 Here is a caricature of my sister and me
+<picture>
+  <img alt="Fallback Alt Text" src="megan&me.png">
+</picture>
+
 ---
 ```
 git add
